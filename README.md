@@ -19,4 +19,4 @@ Para chegar no resultado desta branch (tags, commits, merges) foram feitos os pa
 * Criar a tag 1.0 como "Versão de entrega" após o merge das branches dev e main
 
 
-O objetivo deste repositório é 100 acadêmico, para fins de entrega de ativadade \o/ sinta-se livre para editar ou estudar o funcionamento das branches e tags.
+O objetivo deste repositório é 100% acadêmico, para fins de entrega de ativadade \o/ sinta-se livre para editar ou estudar o funcionamento das branches e tags.
