@@ -16,6 +16,7 @@ Para chegar no resultado desta branch (tags, commits, merges) foram feitos os pa
 * Criar os arquivos arquivo1.js e arquivo2.js no primeiro commit
 * Criar o arquivo arquivo3.js no segundo commit
 * Criar a tag 1.0 como "Versão de início"
+* Criar a branch dev
 * Criar a tag 1.0 como "Versão de entrega" após o merge das branches dev e main
 
 
