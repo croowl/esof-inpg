@@ -17,6 +17,7 @@ Para chegar no resultado desta branch (tags, commits, merges) foram feitos os pa
 * Adicionar uma linha no arquivo arquivo1.js no commit 4
 * Fazer um push na branch dev
 * Criar a branch temp
+* Saltar para a branch temp...
 * Deletar o arquivo arquivo4.js e alterar a 1ª linha do arquivo arquivo1.js após o commit 6 na branch temp
 * Fazer o merge entres as branches dev e main
 
