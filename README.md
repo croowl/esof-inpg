@@ -13,7 +13,7 @@ Atividade de avaliação do 5º Semestre do curso Gestão de TI da faculdade INP
 
 Para chegar no resultado desta branch (tags, commits, merges) foram feitos os passos abaixo:
 
-* Adicionar uma linha no arquivo3.js e arquivo4.js e criar o arquivo5.js no commit 5
+Adicionar uma linha no arquivo3.js e arquivo4.js e criar o arquivo5.js no commit 5
 
 ```nano arquivo3.js```
 
@@ -23,19 +23,19 @@ Para chegar no resultado desta branch (tags, commits, merges) foram feitos os pa
 
 ```git commit -m "Commit cinco"```
 
-* Fazer um push na branch temp
+Fazer um push na branch temp
 
 ```git push origin temp```
 
-* Fazer um merge das branches temp e dev
+Fazer um merge das branches temp e dev
 
 ```git merge dev```
 
-* Fazer um push na branch dev
+Fazer um push na branch dev
 
 ```git push origin dev```
 
-* Saltar para a branch dev...
+Saltar para a branch dev...
 
 ```git checkout dev```
 
