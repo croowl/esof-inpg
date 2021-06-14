@@ -31,6 +31,8 @@ Criar a tag 1.0 como "Versão de início"
 
 ```git tag -a 1.0 -m "Versão de início"```
 
+```git push origin main --tags```
+
 Criar a branch dev
 
 ```git branch dev```
@@ -39,8 +41,10 @@ Saltar para a branch dev...
 
 ```git checkout dev```
 
-Criar a tag 1.0 como "Versão de entrega" após o merge das branches dev e main
+Criar a tag 1.1 como "Versão de entrega" após o merge das branches dev e main
 
-```git tag -a 1.0 -m "Versão de entrega"```
+```git tag -a 1.1 -m "Versão de entrega"```
+
+```git push origin main --tags```
 
 O objetivo deste repositório é 100% acadêmico, para fins de entrega de ativadade \o/ sinta-se livre para editar ou estudar o funcionamento das branches e tags.
